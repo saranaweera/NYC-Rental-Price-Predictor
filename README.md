@@ -11,6 +11,3 @@ Scraped ~30,000 NYC apartment rental listings and developed a linear model to pr
 
 ### Linear Model ###
 [Linear Model Notebook](https://github.com/saranaweera/NYC-Rental-Price-Predictor/blob/master/RentalPricePredictor.DataEngineering.LinearModel.ipynb)  
-
-
-For more information, look at my blog post [here](https://saranaweera.github.io/MTA-Turnstile-DataAnalysis/)
